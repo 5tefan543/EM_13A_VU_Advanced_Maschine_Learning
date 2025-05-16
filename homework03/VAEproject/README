@@ -1,0 +1,11 @@
+Jupyter Notebook Files (launch with jupyter lab):
+  VAE-Bar.ipynb        Your graded exercise.
+  VAE-Bernoulli.ipynb  For your convenience, development, debugging, etc.
+  VAE-MNIST.ipynb      If you are hooked and can't stop.
+
+  The two VAENormal cells (text+Python) are identicall in all of the
+  above notebooks.  The VAENormal Python block is where your solution
+  goes.  The same solution should work for all of these notebooks.
+
+All the .py files are imported by the above.  You should not need to
+look at them but you are free to do so.
